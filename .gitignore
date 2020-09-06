@@ -57,3 +57,7 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+# Realm 
+realms/*.realm.lock
+realms/*.realm.note
